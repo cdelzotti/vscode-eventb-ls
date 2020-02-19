@@ -1,6 +1,7 @@
 {
-	"name": "Event-B Intellisense",
-	"description": "An advance support for event-b. Basic support extension is needed.",
+	"name": "Eventb-Intellisense",
+	"displayName": "Event-B Advanced Language Support",
+	"description": "An advance support for event-b. Basic support extension is advised.",
 	"author": "GlgCorp",
 	"icon": "icon.jpg",
 	"license": "MIT",
