@@ -2,8 +2,9 @@
 	"name": "eventb-intellisense",
 	"description": "An advance support for event-b. Basic support extension is needed.",
 	"author": "GlgCorp",
+	"icon": "icon.jpg",
 	"license": "MIT",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/cdelzotti/vscode-eventb-ls"
